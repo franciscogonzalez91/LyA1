@@ -38,8 +38,8 @@ Funcion,void
 objeto,Object
 Asignador,Set
 Operador de Asignacion,=
-==
-<=
->=
+Operador de comparacion,==
+Operador de comparacion,<=
+Operador de comparacion, >=
 Regreso,return
 Nulo,null
