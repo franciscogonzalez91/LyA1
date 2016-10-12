@@ -1,0 +1,45 @@
+bool
+byte
+char
+double
+float
+int
+long
+short
+string
+date
+true
+false
+Ciclo,for
+Ciclo,while
+Ciclo,do
+Condicion,if
+Condicion,else
+Condicion,try
+Condicion,catch
+Condicion,switch
+Condicion,case
+Condicion,break
+Condicion,default
+Ciclo,loop
+Fin de instruccion,;
+Instruccion anidada,.
+Ciclo,foreach
+Metodo,main
+Clase,class
+Clase,random
+Clase,convert
+Modificador de proteccion,public
+Modificador de proteccion,protected
+Modificador de proteccion,private
+Clase,console
+Impresor,println
+Funcion,void
+objeto,Object
+Asignador,Set
+Asignador,=
+Condicion booleana,==
+Condicion booleana,<=
+Condicion booleana,>=
+Regreso,return
+Nulo,null
