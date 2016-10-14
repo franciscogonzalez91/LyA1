@@ -42,3 +42,58 @@ set
 >=
 return
 null
+var
+datetime
+length
+:
+~
+ ++
+""
+''
+\n
+\t
+\b
+\r
+\"
+\'
+\\
+import
+function
+//
+/* */
+&&
+||
+!=
+!
+ +
+ -
+ *
+ /
+ +=
+ -=
+stop
+start
+show
+visible
+ToString
+ToInt
+ToBool
+ToChar
+ToDouble
+ToFloat
+ToLong
+ToShort
+ToLongDateString
+ToShortDateString
+new
+file
+as
+enum
+throw
+in
+goto
+package
+this
+interface
+finally
+continue
