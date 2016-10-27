@@ -22,7 +22,6 @@ case
 break
 default
 loop
-; 
 foreach
 main
 class
@@ -47,7 +46,7 @@ datetime
 length
 :
 ~
- ++
+++
 ""
 ''
 \n
@@ -65,12 +64,12 @@ function
 ||
 !=
 !
- +
- -
- *
- /
- +=
- -=
++
+-
+*
+/
++=
+-=
 stop
 start
 show
@@ -99,3 +98,5 @@ finally
 continue
 BigInteger
 BigDecimal
+.
+;
