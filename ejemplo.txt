@@ -1,2 +1,4 @@
-Oper: A15 -> C15 + B15
-xD -> xD
+Imprimir xD
+Oper: xD -> xD + x5
+Clase Pub hola[numero1 int; numero3 string; verdadero bool]
+Def: xD
